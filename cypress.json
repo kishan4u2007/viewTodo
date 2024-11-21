@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://localhost:3000", // Change this to the URL of your app if different
+    "integrationFolder": "cypress/e2e"
+  }
+  
